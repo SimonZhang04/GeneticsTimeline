@@ -35,7 +35,7 @@ function App() {
       </VerticalTimeline>
       <div className="info">
         <h3>Why was Rosalind Franklin not part of the group that was awarded the Nobel Prize in 1962?</h3>
-      <div className="question">
+      <div>
         <div className="rightSide">
           <img className="xray" src='https://www.scr.org/images/default-source/blog/18-19-blog/feb-19-blog/photo_51_image.jpg?sfvrsn=0' alt='photo 51'/>
           <p id="caption">Photo 51, an X-ray diffraction image of DNA taken by Rosalind Franklin in 1952.</p>
