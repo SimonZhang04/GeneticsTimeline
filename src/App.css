@@ -1,0 +1,80 @@
+body {
+  background: blanchedalmond;
+  font-size: 16px;
+  color: rgb(53, 53, 53);
+}
+
+.title {
+  font-size: 4em;
+  text-align: center;
+}
+
+h3 {
+  padding-top: 0.25em;
+}
+
+.vertical-timeline-element-content {
+  padding: 2em 3em !important;
+}
+
+.date {
+  color: black;
+  font-size: 1.3em !important;
+}
+
+#description {
+  margin: 1.5em 0 2em 0;
+}
+
+.portrait {
+  height: 400px;
+  width: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+.info {
+  background-color: white;
+  border-radius: 10px;
+  margin: 0 auto;
+  margin-top: 3em;
+  width: 600px;
+  padding: 3em;
+  padding-left: 5em;
+  padding-right: 5em;
+  display: block;
+}
+
+.question {
+  display: flex;
+}
+
+.xray {
+  width: 200px;
+  height: auto;
+}
+
+#caption {
+  margin: 0;
+  font-size: 12px;
+  margin-right: 50px;
+}
+
+.rightSide {
+  margin-right: 40px;
+}
+
+.footer {
+  margin-top: 7em;
+  padding: 3em;
+  text-align: right;
+}
+
+@media only screen and (max-width: 1700px) {
+  .vertical-timeline-element-date {
+    display: block !important;
+    float: none !important;
+    color: black;
+    margin-top: 1.5em;
+  }
+}
