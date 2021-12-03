@@ -39,7 +39,7 @@ h3 {
   margin: 0 auto;
   margin-top: 3em;
   width: 600px;
-  padding: 3em;
+  padding: 1.5em;
   padding-left: 5em;
   padding-right: 5em;
   display: block;
@@ -62,10 +62,19 @@ h3 {
   margin-right: 40px;
 }
 
+.sources {
+  text-align: center;
+  font-size: 1em !important;
+}
+
 .footer {
   margin-top: 7em;
   padding: 3em;
   text-align: right;
+}
+
+.sources {
+  font-size: 0.5em;
 }
 
 @media only screen and (max-width: 1700px) {
@@ -78,14 +87,12 @@ h3 {
 
   .info {
     width: 300px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 3em;
   }
 
   .xray {
     width: 150px;
-  }
-
-  .sources {
-    max-width: fit-content;
-    font-size: 1em;
   }
 }

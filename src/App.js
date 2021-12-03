@@ -44,58 +44,13 @@ function App() {
           <p id="description">In 1962, James Watson, Francis Crick, and Maurice Wilkins were awarded the Nobel Prize in Physiology or Medicine. However, Rosalind Franklin was not part of this group. In 1953, Rosalind Franklin was working under Maurice Wilkins, although somewhat independently. Wilkins showed Watson and Crick her findings and when Watson and Crick published their discoveries in 1953, they did not credit Franklin's photographs/research. Furthermore, at most three can be awarded a single Nobel Prize. Rosalind Franklin passed away 4 years before 1962 from ovarian cancer. The Nobel Prize committee generally did not award posthumously. </p>
         </div>
         
+        </div>
       </div>
-      </div>
-
-
+     
       <div className="info">
-        <h3>Sources </h3>
-        <p class="description">Nelson Biology 12 Textbook <br/>
- 
- http://www.dnaftb.org/15/bio.html <br/>
-  
- https://www.britannica.com/biography/Frederick-Griffith<br/>
-  
- https://opentextbc.ca/microbiologyopenstax/chapter/using-microbiology-to-discover-the-secrets-of-life/<br/>
-  
- https://www.genome.gov/25520250/online-education-kit-1944-dna-is-transforming-principle <br/>
-  
- https://secure1.nbed.nb.ca/sites/ASD-S/1941/Gallant/Documents/biology/DNA_Notes.pdf <br/>
-  
- https://www.scr.org/get-connected/south-coast-repertorys-stories/south-coast-repertory's-stories/2019/02/25/a-nobel-experiment-rosalind-franklin-and-the-prize<br/>
-  
- https://lmuthisweek.lmu.edu/2021/03/22/sexism-in-science-was-rosalind-franklin-robbed-of-a-nobel-prize/<br/>
-  
- https://www.britannica.com/biography/Kary-Mullis <br/>
-  
- http://www.genomenewsnetwork.org/resources/timeline/1986_Hood.php<br/>
-  
- https://biography.yourdictionary.com/erwin-chargaff<br/>
- </p>
- <p> <strong>Images: </strong></p>
- <p class="sources">https://www.britannica.com/biography/Friedrich-Miescher
- 
- https://commons.wikimedia.org/wiki/File:Fred_Griffith_and_%22Bobby%22_1936.jpg
-  
- https://www.istrapedia.hr/hr/natuknice/2489/hammerling-joachim
-  
- https://www.timetoast.com/timelines/the-history-of-genetics 
-  
- https://en.wikipedia.org/wiki/Erwin_Chargaff
-  
- https://paulingblog.wordpress.com/2009/08/18/the-hershey-chase-blender-experiments/
-  
- https://blog.oup.com/2012/07/rosalind-franklin-sister-memoir-dna/
-  
- https://www.bbc.com/news/health-18041884
-  
- https://digitalcommons.rockefeller.edu/transforming-principle-dna/23/
-  
- https://www.nobelprize.org/prizes/chemistry/1993/mullis/facts/
-  
- https://en.wikipedia.org/wiki/Leroy_Hood
- </p>
+        <a href="https://docs.google.com/document/d/1C_viEjXykR7Io5zQ3n24Bo6-hv5k2ii21iT9w4GcYds/edit?usp=sharing"><h3 className="sources">Sources</h3></a>
       </div>
+
       <div className="footer">
         <p>By Simon Zhang on Dec 2, 2021</p>
       </div>
