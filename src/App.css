@@ -35,7 +35,7 @@ h3 {
 
 .info {
   background-color: white;
-  border-radius: 10px;
+  border-radius: 13px;
   margin: 0 auto;
   margin-top: 3em;
   width: 600px;
@@ -75,5 +75,9 @@ h3 {
     float: none !important;
     color: black;
     margin-top: 1.5em;
+  }
+
+  .info {
+    width: 200px;
   }
 }
