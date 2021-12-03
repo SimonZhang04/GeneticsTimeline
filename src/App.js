@@ -50,7 +50,7 @@ function App() {
 
       <div className="info">
         <h3>Sources </h3>
-        <p id="description">Nelson Biology 12 Textbook <br/>
+        <p class="description">Nelson Biology 12 Textbook <br/>
  
  http://www.dnaftb.org/15/bio.html <br/>
   
@@ -73,7 +73,7 @@ function App() {
  https://biography.yourdictionary.com/erwin-chargaff<br/>
  </p>
  <p> <strong>Images: </strong></p>
- <p>https://www.britannica.com/biography/Friedrich-Miescher
+ <p class="sources">https://www.britannica.com/biography/Friedrich-Miescher
  
  https://commons.wikimedia.org/wiki/File:Fred_Griffith_and_%22Bobby%22_1936.jpg
   

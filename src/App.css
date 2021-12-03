@@ -56,7 +56,6 @@ h3 {
 #caption {
   margin: 0;
   font-size: 12px;
-  margin-right: 50px;
 }
 
 .rightSide {
@@ -78,6 +77,15 @@ h3 {
   }
 
   .info {
-    width: 200px;
+    width: 300px;
+  }
+
+  .xray {
+    width: 150px;
+  }
+
+  .sources {
+    max-width: fit-content;
+    font-size: 1em;
   }
 }
